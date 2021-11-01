@@ -2,7 +2,7 @@
 
 :link: https://wesleyalves212.github.io/flexcar/
 
-### :label: Site institucional de uma locadora de veículos. Empresa fictícia.
+### :label: Site institucional.
 
 :page_facing_up: Site Criado como prática para o CSS Flexbox
 
