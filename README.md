@@ -4,7 +4,7 @@
 
 ### :label: Site institucional de uma locadora de veículos. Empresa fictícia.
 
-:page_facing_up: Criado como prática para o CSS Flexbox
+:page_facing_up: Site Criado como prática para o CSS Flexbox
 
 :page_facing_up: Site Responsivo.
 
